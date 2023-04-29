@@ -1,0 +1,19 @@
+{
+  "name": "@arreis94/finesse",
+  "version": "0.1.1",
+  "description": "Cisco Finesse Type Definitions",
+  "main": "finesse.d.ts",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "author": "tamas.csizmadia94@gmail.com",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "https://github.com/arreis94/Cisco-Finesse-Types"
+  }
+}
